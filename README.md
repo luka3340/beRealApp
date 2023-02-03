@@ -32,5 +32,6 @@ ___
 ## Technologies Used:
 BeReal is an Android app written in Kotlin and currently uses Firebase services such as Authentication, Real-time database, and Storage.
 ___
-##Creators
+
+## Creators
 Nika Jobava, Nikoloz Paposhvili
