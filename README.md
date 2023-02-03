@@ -1,11 +1,13 @@
 # BeReal - A Social Media Platform
 
 ## Navigation
+- [Screenshots](#screenshots)
 - [What is BeReal?](#what-is-bereal)
 - [Instructions for using BeReal](#instructions-for-using-bereal)
 - [Technologies Used](#technologies-used)
 ___
 
+## Screenshots
 ![A screenshot of BeReal app Log-In](https://imagizer.imageshack.com/img923/7413/DB7GNU.jpg)
 ![A screenshot of BeReal app Upload](https://imagizer.imageshack.com/img922/8175/nNCVKG.jpg)
 ![A screenshot of BeReal app Feed](https://imagizer.imageshack.com/img924/5966/4YGqUB.jpg)
