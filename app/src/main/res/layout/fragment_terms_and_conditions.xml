@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBG"
+    tools:context=".TermsAndConditionsFragment">
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="64dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="36sp"
+                android:layout_marginTop="12dp"
+                android:text="Terms &amp; Conditions" />
+
+            <TextView
+                android:id="@+id/term1"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="1. Introduction Welcome to BeReal LLC" />
+
+            <TextView
+                android:id="@+id/term2"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="2. Communications By using our Service" />
+
+            <TextView
+                android:id="@+id/term3"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="3. Contests, Sweepstakes and Promotions"/>
+
+            <TextView
+                android:id="@+id/term4"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="4. Content" />
+            <TextView
+                android:id="@+id/term5"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="5. Prohibited Uses" />
+
+            <TextView
+                android:id="@+id/term6"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="6. Analytics" />
+
+            <TextView
+                android:id="@+id/term7"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="7. No Use By Minors" />
+
+            <TextView
+                android:id="@+id/term8"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="8. Accounts" />
+
+            <TextView
+                android:id="@+id/term9"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="9. Intellectual Property" />
+
+            <TextView
+                android:id="@+id/term10"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="10. Copyright Policy" />
+
+            <TextView
+                android:id="@+id/term11"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="11. DMCA Notice and Procedure for Copyright Infringement Claims" />
+
+            <TextView
+                android:id="@+id/term12"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="12. Error Reporting and Feedback" />
+
+            <TextView
+                android:id="@+id/term13"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="13. Links To Other Web Sites" />
+            <TextView
+                android:id="@+id/term14"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="14. Disclaimer Of Warranty" />
+            <TextView
+                android:id="@+id/term15"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="15. Limitation Of Liability" />
+            <TextView
+                android:id="@+id/term16"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="16. Termination" />
+            <TextView
+                android:id="@+id/term17"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="17. Governing Law" />
+            <TextView
+                android:id="@+id/term18"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="18. Changes To Service" />
+            <TextView
+                android:id="@+id/term19"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="19. Amendments To Terms" />
+            <TextView
+                android:id="@+id/term20"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="20. Waiver And Severability" />
+            <TextView
+                android:id="@+id/term21"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="21. Acknowledgement" />
+            <TextView
+                android:id="@+id/term22"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginStart="12dp"
+                android:padding="8dp"
+                android:text="22. Contact Us" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

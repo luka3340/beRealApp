@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948551709621",
+    "firebase_url": "https://be-real-id-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "be-real-id",
+    "storage_bucket": "be-real-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948551709621:android:1d95fea7d502b30f889ffc",
+        "android_client_info": {
+          "package_name": "com.example.berealapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948551709621-or3h7rmu95gek132b7inu2lforan4asi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC997JBMSriwHOUYBk3w8R43Ont-xp2EjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948551709621-b0dsuno8t9kq04hudinc06neao7sum9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
