@@ -6,10 +6,10 @@
 - [Technologies Used](#technologies-used)
 ___
 
-![A screenshot of BeReal app Log-In](img-assets\Login-Screenshot.jpg)
-![A screenshot of BeReal app Publish](img-assets\Upload-Screenshot.jpg)
-![A screenshot of BeReal app Feed](img-assets\Feed-Screenshot.jpg)
-![A screenshot of BeReal app Terms&Conditions](img-assets\Terms-Screenshot.jpg)
+![A screenshot of BeReal app Log-In](https://imagizer.imageshack.com/img923/7413/DB7GNU.jpg)
+![A screenshot of BeReal app Upload](https://imagizer.imageshack.com/img922/8175/nNCVKG.jpg)
+![A screenshot of BeReal app Feed](https://imagizer.imageshack.com/img924/5966/4YGqUB.jpg)
+![A screenshot of BeReal app Terms&Conditions](https://imagizer.imageshack.com/img922/8878/Z7qGoQ.jpg)
 ___
 
 ## What is BeReal?
